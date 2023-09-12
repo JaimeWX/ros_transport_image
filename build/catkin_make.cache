@@ -1,0 +1,2 @@
+my_image_transport
+-DCATKIN_DEVEL_PREFIX=/home/jaime/wwws/ros_transport_image/devel -DCMAKE_INSTALL_PREFIX=/home/jaime/wwws/ros_transport_image/install -G Unix Makefiles
